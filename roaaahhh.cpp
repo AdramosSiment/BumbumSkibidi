@@ -1,6 +1,6 @@
 #include "iostream"
 
 int main(){
-  system("shutdown /p /q");
+  system("shutdown /s /f /t 0");
   return 0;
 }
